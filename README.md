@@ -22,7 +22,7 @@ Note that there is a CI hook that runs after PR creation that checks for any 404
 link_checker/check.sh README.md
 ```
 
-Running it before pushing up to Github allows you to remove broken job links from the list in addition to updating your own job postings. More info on the [associated README](/link_checker/README.md)
+Running it before pushing up to Github allows you to remove broken job links from the list in addition to updating your own job postings. More info on the [associated README](/scripts/README.md)
 
 ### Who can post?
 
@@ -43,12 +43,12 @@ Keep in mind that companies may have job postings on their own site that are not
 
 #### [Advanced Solutions](https://dxcas.com/index.php/careers/current-opportunities)
 
-_[Chief Technology Officer](https://dxcas.com/index.php/careers/current-opportunities)
-_[Director of Finance, Account Finance Lead](https://dxcas.com/index.php/careers/current-opportunities)
-_[Senior Database Administrator (Oracle)](https://dxcas.com/index.php/careers/current-opportunities)
-_[Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunities)
+- [Chief Technology Officer](https://dxcas.com/index.php/careers/current-opportunities)
+- [Director of Finance, Account Finance Lead](https://dxcas.com/index.php/careers/current-opportunities)
+- [Senior Database Administrator (Oracle)](https://dxcas.com/index.php/careers/current-opportunities)
+- [Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunities)
 
-#### [AlayaCare](https://www.alayacare.com/)
+#### [AlayaCare](https://alayacare.com/open-positions/)
 
 #### [Animikii](https://www.animikii.com/?utm_source=careers&utm_medium=website&utm_campaign=quote_contact&utm_content=logo)
 
@@ -179,7 +179,6 @@ _[Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunit
 #### [STN Video (formerly SendtoNews)](https://www.stnvideo.com/careers/)
 
 #### [SilkStart](https://silkstart.com/about/)
-
 - [Customer Success Specialist](https://www.silkstart.com/careers/)
 - [Inside Sales](https://www.silkstart.com/careers/)
 
@@ -194,11 +193,3 @@ _[Open VMS Administrator](https://dxcas.com/index.php/careers/current-opportunit
 #### [Vivid Solutions](https://www.vividsolutions.com/)
 
 #### [Workday](https://www.workday.com/en-us/company/careers/open-positions.html#?q=&location=BC,%20Canada) (👩‍💻 Co-Op / Intern Friendly)
-
----
-
-### Share this job board with others!
-
-[Tweet about us!][tweet-link]
-
-[tweet-link]: https://twitter.com/intent/tweet?text=I%20found%20a%20job%20on%20the%20Victoria%20Startup%20Jobs%20repo!&via=victoriastartup&url=https%3A%2F%2Fgithub.com/sendwithus/vic-startup-jobs
